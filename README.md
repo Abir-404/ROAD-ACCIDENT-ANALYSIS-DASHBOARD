@@ -28,6 +28,12 @@ Essential KPIs were devised to quantify accident statistics for the year 2022. T
 
 * Year 2022 serious casualties
 
+
+
+
+![ROAD ACCIDENT ANALYSIS pdf_page-0001](https://github.com/Abir-404/ROAD-ACCIDENT-ANALYSIS-DASHBOARD/assets/172139410/fbfccd9e-7579-4365-b2b4-1caadb99d21c)
+
+
 * Year 2022 slight casualties
 
 Additionally, each KPI is supplemented with the percentage increase or decrease in casualties compared to the previous year, providing a dynamic perspective on accident trends.
